@@ -10,6 +10,11 @@ const quizData = [
     correct: 1
   },
   {
+    question: "What is my wfie name?",
+    answers: ["Asha", "Asha 1", "Asha 2", "Asha 3"],
+    correct: 0
+  },
+  {
     question: "Which language is used for web apps?",
     answers: ["PHP", "Python", "JavaScript", "All"],
     correct: 3
